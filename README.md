@@ -35,10 +35,6 @@ The Notepad application is a simple text editor created using Python's Tkinter l
 3. **Copy, Cut, Paste**: Use the "Edit" menu to perform these operations.
 4. **About Notepad**: Click on the "Help" menu and select "About Notepad" to learn more about the application.
 
-### About the Developer
-
-This Notepad application was created by [Marios-Angelos Platon]. Feel free to reach out for any questions or feedback about the project.
-
 ### Notes
 
 - This project was created as a demonstration of basic GUI programming with Tkinter.
